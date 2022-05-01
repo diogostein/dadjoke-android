@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dad Joke App</string>
+    <string name="generate_new_joke">Generate New Joke</string>
+    <string name="error_dad_joke_api">Ops an error occurred, please try again.</string>
+    <string name="error_dad_joke_not_found">Ops, we could not find that dad joke, please try again.</string>
+    <string name="dad_joke_initial_message">Please click Generate New Joke</string>
+</resources>
